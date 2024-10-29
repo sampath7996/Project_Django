@@ -45,10 +45,9 @@ Follow these steps to set up the project on your local machine:
 8.  Start the development server:
       python manage.py runserver
 
-API Endpoints
+**API Endpoints**
 
 1.Create a New Client
-
 URL: /api/clients/
 Method: POST
 Body (JSON):
